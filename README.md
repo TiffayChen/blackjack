@@ -4,9 +4,9 @@ blackJack Module Reference
 This module implements the popular game BlackJack based on the following rules:
 
 1. Dealer must hit soft 17
-2. Single deck, refresh every 6 rounds
+2. Single deck, shuffle deck every 6 rounds
 3. No split or double down
-4. Keep tracking winning percentage
+4. Keep track of win percentage of the player
 5. One player vs Dealer
 
 SETUP
