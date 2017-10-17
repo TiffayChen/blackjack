@@ -3,8 +3,8 @@ blackJack Module Reference
 
 This module implements the popular game BlackJack based on the following rules:
 
-1. Dealer must hit soft 17
-2. Single deck, shuffle deck every 6 rounds
+1. Dealer must hit on soft 17
+2. Single deck. The deck is shuffled every 6 rounds
 3. No split or double down
 4. Keep track of win percentage of the player
 5. One player vs Dealer
